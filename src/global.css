@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "BIZ UDGothic", sans-serif;
+}
+
+body{
+  background-color: black;
+  color: white;
+  padding: 2rem;
+}
+
+/* img{
+  width: 50rem;
+  height: 50rem;
+  padding: 5rem;
+} */
